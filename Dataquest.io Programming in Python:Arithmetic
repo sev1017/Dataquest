@@ -1,0 +1,31 @@
+23+7
+#outcome 30 is correct
+
+print (40+4)
+print (200-25)
+print (14+3)
+#outcome 44,175,17 is correct
+
+print (30+10+40)
+print (4)
+print (-3)
+#outcome 80,4,-3 is correct
+
+print (34+16)
+print (34)
+print (-34)
+#outcome 50,34,-34 is correct
+
+#INITIAL CODE
+print (34 +16)
+print (34)
+print (-34)
+#outcome 50,34,-34 is correct
+
+print (16*10)
+print (48/5)
+print (5**3) #**=^; ie. 5^3
+#outcome 160,9.6, 125 is correct
+
+
+
