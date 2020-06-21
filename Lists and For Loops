@@ -1,0 +1,28 @@
+track_name_rowl= 'Facebook'
+price_rowl= 0.0
+currency_rowl = 'USD'
+rating_count_tot_rowl = 2974676
+user_rating_rowl = 3.5 
+
+row_1 = ['Facebook', 0.0, 'USD', 2974676, 3.5]
+print(row_1)
+type(row_1)
+_______________
+Output
+['Facebook', 0.0, 'USD', 2974676, 3.5]
+list 
+_______________
+Variables
+>row_1
+>type
+>currency_rowl
+>rating_count_tot_rowl
+>user_rating_rowl
+price_rowl
+track_name_rowl
+_____________
+row_2 = ['Instagram', 0.0, 'USD', 21661558, 4.5]
+row_3 = ['Clash of Clans', 0.0, 'USD', 2130805, 4.5]
+
+print(row_2)
+print(row_3) 
