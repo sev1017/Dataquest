@@ -1,0 +1,71 @@
+row_1 = ['Facebook', 0.0, 'USD', 2974676, 3.5]
+row_2 = ['Instagram', 0.0, 'USD', 2161558, 4.5]
+row_3 = ['Clash of Clans', 0.0, 'USD', 2130805, 4.5]
+~~~~~~~~~~~~
+Two strings ('Facebook', 'USD')
+Two floars (0.0, 3.5)
+One integer (2974676) 
+
+To find the length of the list, we can use the len() command
+______
+row_1 = ['Facebook', 0.0, 'USD', 2974676, 3.5]
+
+print(len(row_1))
+
+list_1 = [1,6,0]
+print(len(list_1))
+
+list_2 = []
+print(len(list_2)) 
+__________
+Each element (data point) in a list has a specific number associated
+with it, called an INDEX NUMBER 
+~~~~~~~~~~
+row_1 = ['Facebook', 0.0, 'USD', 2974676, 3.5]
+
+print(len(row_1))
+
+list_1 = [1,6,0]
+print(len(list_1))
+
+list_2 = []
+print(len(list_2)) 
+_______
+Output
+5
+3
+0
+___________
+row_1 = ['Facebook', 0.0, 'USD', 2974676, 3.5]
+row_1[0]
+______
+Output
+'Facebook'
+~~~~~~~~~
+print(row_1[0])
+print(row_1[1])
+print(row_1[2])
+print(row_1[3])
+print(row_1[4])
+_________
+Output 
+
+Facebook
+0.0
+USD
+2974676
+3.5
+~~~~~~~
+row_1 = ['Facebook', 0.0, 'USD', 2974676, 3.5] 
+row_2 = ['Instagram', 0.0, 'USD', 2161558, 4.5] 
+
+difference = row_2[4] - row_1[4]
+average_rating = (row_1[4])+ row_2[4] / 2
+
+print(difference)
+print(average_rating) 
+_____
+Output
+1.0
+4.0 
+~~~~~~
